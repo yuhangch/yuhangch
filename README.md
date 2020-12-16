@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on satelite & ☁️
-- 🌱 I’m currently learning satelite & ☁️
-- 🤔 I’m looking for help with satelite & ☁️
-- 💬 Ask me about satelite & ☁️
-- 👯 I’m looking to collaborate on satelite & ☁️
+- 🔭 I’m currently working on graduation project
+- 🌱 I’m currently learning Java&CS Interview
 - 📫 How to reach me: [yuhang.ch](https://yuhang.ch)
 - 😄 Pronouns: He
-- ⚡ Fun fact: It seems that I don’t need to do something anymore about satelite & ☁️
+- ⚡ Fun fact: It seems that I don’t need to do something anymore about what i'm doing
