@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on graduation project
-- 🌱 I’m currently learning Java&CS Interview
-- 📫 How to reach me: [yuhang.ch](https://yuhang.ch)
-- 😄 Pronouns: He
-- ⚡ Fun fact: It seems that I don’t need to do something anymore about what i'm doing
+- 🔭 I’m currently working at [@CRDC](http://http://www.crdc.com/)
+- 🌱 I’m currently learning ···
+- 📫 reach me at: [yuhang.ch](https://yuhang.ch)
+- 😄 Pronouns: he/他
+<!-- - ⚡ Fun fact: It seems that I don’t need to do something anymore about what i'm doing -->
