@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [@CRDC](http://http://www.crdc.com/)
+- 🔭 I’m currently working at 3D GIS.
 - 🌱 I’m currently learning ···
 - 📫 reach me at: [yuhang.ch](https://yuhang.ch)
 - 😄 Pronouns: he/他
