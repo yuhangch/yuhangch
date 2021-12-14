@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at 3D GIS.
-- 🌱 I’m currently learning ···
-- 📫 reach me at: [yuhang.ch](https://yuhang.ch)
-- 😄 Pronouns: he/他
+- 🌎 I’m currently working at spatial things
+- 💻 I’m currently learning .net family
+- 🏠 reach me at: [yuhang.ch](https://yuhang.ch)
+- 👨‍🦱 Pronouns: he/他
 <!-- - ⚡ Fun fact: It seems that I don’t need to do something anymore about what i'm doing -->
